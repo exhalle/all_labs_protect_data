@@ -1,0 +1,11 @@
+C:\5magistr\3-Data-Sec-Navrockiy\lab4_Sidorov\lab4_Sidorov\obj\Debug\lab4_Sidorov.csproj.AssemblyReference.cache
+C:\5magistr\3-Data-Sec-Navrockiy\lab4_Sidorov\lab4_Sidorov\obj\Debug\lab4_Sidorov.csproj.SuggestedBindingRedirects.cache
+C:\5magistr\3-Data-Sec-Navrockiy\lab4_Sidorov\lab4_Sidorov\obj\Debug\lab4_Sidorov.Form1.resources
+C:\5magistr\3-Data-Sec-Navrockiy\lab4_Sidorov\lab4_Sidorov\obj\Debug\lab4_Sidorov.Properties.Resources.resources
+C:\5magistr\3-Data-Sec-Navrockiy\lab4_Sidorov\lab4_Sidorov\obj\Debug\lab4_Sidorov.csproj.GenerateResource.cache
+C:\5magistr\3-Data-Sec-Navrockiy\lab4_Sidorov\lab4_Sidorov\obj\Debug\lab4_Sidorov.csproj.CoreCompileInputs.cache
+C:\5magistr\3-Data-Sec-Navrockiy\lab4_Sidorov\lab4_Sidorov\bin\Debug\lab4_Sidorov.exe.config
+C:\5magistr\3-Data-Sec-Navrockiy\lab4_Sidorov\lab4_Sidorov\bin\Debug\lab4_Sidorov.exe
+C:\5magistr\3-Data-Sec-Navrockiy\lab4_Sidorov\lab4_Sidorov\bin\Debug\lab4_Sidorov.pdb
+C:\5magistr\3-Data-Sec-Navrockiy\lab4_Sidorov\lab4_Sidorov\obj\Debug\lab4_Sidorov.exe
+C:\5magistr\3-Data-Sec-Navrockiy\lab4_Sidorov\lab4_Sidorov\obj\Debug\lab4_Sidorov.pdb
